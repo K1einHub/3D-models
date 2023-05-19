@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: 'Inter-Text_ExtraBold';
-    src: url(./font/Inter-ExtraBold.ttf);
+    src: url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
 }
 
 @font-face {
     font-family: 'Inter-Text_Bold';
-    src: url(./font/Inter-Bold.ttf);
+    src: url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
 }
 
 body,
